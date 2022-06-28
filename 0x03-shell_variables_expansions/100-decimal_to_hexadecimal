@@ -1,2 +1,2 @@
 #!/bin/bash
-printf '%x\n' 85
+printf "90.2f" $NUM | sort
