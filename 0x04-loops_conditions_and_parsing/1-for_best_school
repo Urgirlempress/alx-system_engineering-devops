@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-# Displaying "Best School" 10 times
-for i in {1..10}
+# Script that displays Best School 10 times
+for i in {0..9}
 do
-	i="Best School"
-	echo "$i"
+	echo "Best School"
 done
+export i
